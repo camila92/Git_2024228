@@ -17,6 +17,18 @@ public class Git_2024228 {
         
         System.out.println("Student name: Camila Altamira 2024228");
        
+        // add a simple print
+    }
+     /*
+public class Git_2024228 {
+
+    /**
+     * @param args the command line arguments
+     */
+ //  public static void main(String[] args) {
+        
+  //      System.out.println("Student name: Camila Altamira 2024228");
+       
         // add a s simple print
     }
     
